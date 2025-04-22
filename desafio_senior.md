@@ -420,3 +420,8 @@ Explicações usando comentários deveriam ser redundantes.
 Seu código não deve criar dependências desnecessárias entre módulos.
 Ao alterar uma parte do código, não deveria ser necessário alterar partes sem
 relação lógica com a parte alterada.
+
+SUGESTÕES de desafios:
+- Projetar um motor de consultas (query engine)
+- Implementar um armazenamento de chave-valor (key-value store)
+- Projetar um banco de dados em memória para lidar com transações
